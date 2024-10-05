@@ -1,3 +1,4 @@
+
 # Keywords
 ## What is Computer Science and Why is it so Important? 
 Computer science is the process of solving complex organizational problems using technical solutions.
@@ -46,3 +47,34 @@ Perform algorithms in fewer instructions than RISC architectures
  
 #### Use cases
 CISC is the mainstream approach for personal computers, servers, and data centers.
+#### RISC
+#### What it is
+RISC is a microprocessor architecture that uses a small set of optimized instructions to simplify the work of the central processing unit (CPU). 
+ 
+#### How it works
+RISC instructions are simple and can be executed in a single clock cycle. This allows the CPU to execute instructions more rapidly, which improves performance. 
+ 
+#### Benefits
+RISC architectures have several benefits, including: 
+ 
+#### Lower power consumption:
+RISC-V CPUs can operate at high frequencies while consuming less power. 
+ 
+#### Simpler code:
+Code written for RISC is easier to test. 
+ 
+#### Reduced compiler workload:
+The compiler's workload is reduced because high-level instructions are easily computed and stored.
+
+### -RISC-V
+#### What is RISC-V?
+RISC-V is an open-source instruction set architecture (ISA) that defines how software and hardware interact. It's based on the reduced instruction set computer (RISC) concept and is considered the fifth generation of processors. 
+ 
+#### How it works
+RISC-V is used to develop custom processors for a variety of applications, including supercomputers and embedded designs. It's open standard, meaning anyone can implement it without licensing fees. 
+ 
+#### Benefits
+RISC-V's simplicity and efficiency make it easier to design chips and optimize hardware and software interactions. It's also relatively new, and there's little active competition in the space. 
+ 
+#### Adoption
+RISC-V has become very popular in recent years, with more than 10 billion chips containing RISC-V cores shipping by the end of 2022.
