@@ -111,7 +111,8 @@ Adding RAM: Computers typically come with at least two RAM modules, but more can
 ## ROM (Read-Only Memory)
 Read-Only Memory (ROM) is a type of computer memory that stores permanent data and instructions that are essential for a computer to start up and run: 
  
-What it is
+What it is:
+
 ROM is a non-volatile memory that stores data that cannot be written over or erased. It retains its contents even when the power is off. 
  
 What it does
