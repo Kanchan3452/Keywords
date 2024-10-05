@@ -13,3 +13,4 @@ Leveraging technical solutions to solve complicated problems.
 Everywhere you look, you’ll find computers and other technological systems or devices powering business decisions and operations.
 
 It’s virtually impossible to run a modern business without utilizing computer-driven technology, which is just one of the many reasons why people consider computer science to be so important.
+## COMPUTATION       
