@@ -94,6 +94,36 @@ Because ASICs are custom-built for specific tasks, they can be faster and more e
 ### SoC (System on a Chip)
 A System on a Chip (SoC) is an integrated circuit that consolidates all the components of a computer or other electronic system into a single chip. This includes essential components like the central processing unit (CPU), graphics processing unit (GPU), memory, input/output (I/O) controllers, and other necessary functions for the system to operate.
 The advantage of SoCs is that they provide a high degree of functionality in a small footprint, which is crucial for mobile and embedded applications. They are also optimized for specific tasks, making them more efficient in terms of power and performance than systems using multiple discrete chips.
+
+## PRIMARY MEMORY
+Primary memory is a computer's main memory that stores data and instructions temporarily and is directly accessible by the CPU: 
+ 
+What it is:
+Primary memory is a section of a computer's memory that the CPU can directly access. It's made up of the CPU's registers, cache memory, and RAM. 
+ 
+How it works:
+Data values can be read from and written to primary memory using a unique address for each memory location. 
+ 
+Characteristics:
+Primary memory is volatile, meaning it loses its contents if the power is turned off. It has a faster access time than secondary memory and a storage capacity that's lower than secondary memory but higher than cache memory. 
+ 
+Examples of primary memory:
+RAM (Random Access Memory) and ROM (Read-Only Memory) are examples of primary memory.
+## SECONDARY MEMORY
+Secondary memory, also known as external memory or auxiliary memory, is a computer's storage device that can store data and programs for long periods of time: 
+ 
+What it does:
+Secondary memory stores data and programs that are not immediately accessible by the computer's processor. It's used to store data that can be accessed, transmitted, and used by applications and services. 
+ 
+How it works:
+Secondary memory is non-volatile, meaning it can be used with an interruptible power supply. This allows it to safeguard long-term data and maintain a lasting record of procedures. 
+ 
+Examples:
+Examples of secondary memory devices include hard disk drives, solid state drives, USB flash drives, and compact discs. 
+ 
+Uses:
+Secondary memory is used for data backups, disaster recovery, and long-term storage of essential files.
+
 ## RAM (random access memory)
 RAM, or random access memory, is a computer's short-term memory that stores data the processor needs to run applications and open files. RAM is a critical component of a computer that works with the central processing unit (CPU) to quickly access information.
 
@@ -112,17 +142,16 @@ Adding RAM: Computers typically come with at least two RAM modules, but more can
 Read-Only Memory (ROM) is a type of computer memory that stores permanent data and instructions that are essential for a computer to start up and run: 
  
 What it is:
-
 ROM is a non-volatile memory that stores data that cannot be written over or erased. It retains its contents even when the power is off. 
  
-What it does
+What it does:
 ROM contains the instructions needed for a computer to boot up, perform large input/output (I/O) tasks, and protect programs or software instructions. 
  
-How it's used
+How it's used:
 ROM is used in almost every computer, video game consoles, optical storage, calculators, and peripheral devices. 
  
-Types
+Types:
 The types of ROM include PROM (programmable read-only memory) and EPROM (erasable programmable read-only memory). 
  
-Speed
+Speed:
 ROM is generally slower than RAM but faster than a hard drive
