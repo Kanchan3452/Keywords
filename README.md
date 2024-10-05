@@ -14,3 +14,4 @@ Everywhere you look, you’ll find computers and other technological systems or 
 
 It’s virtually impossible to run a modern business without utilizing computer-driven technology, which is just one of the many reasons why people consider computer science to be so important.
 ## COMPUTATION       
+A computation is an operation that begins with some initial conditions and gives an output which follows from a definite set of rules. The most common example are computations performed by computers, in which the fixed set of rules may be the functions provided by a particular programming language.
