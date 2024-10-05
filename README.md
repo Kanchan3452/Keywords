@@ -108,3 +108,20 @@ Multitasking: RAM is important for multitasking, as it allows the computer to st
 Startup times: RAM allows applications to start up faster, which reduces loading times. 
  
 Adding RAM: Computers typically come with at least two RAM modules, but more can be added if needed.
+## ROM (Read-Only Memory)
+Read-Only Memory (ROM) is a type of computer memory that stores permanent data and instructions that are essential for a computer to start up and run: 
+ 
+What it is
+ROM is a non-volatile memory that stores data that cannot be written over or erased. It retains its contents even when the power is off. 
+ 
+What it does
+ROM contains the instructions needed for a computer to boot up, perform large input/output (I/O) tasks, and protect programs or software instructions. 
+ 
+How it's used
+ROM is used in almost every computer, video game consoles, optical storage, calculators, and peripheral devices. 
+ 
+Types
+The types of ROM include PROM (programmable read-only memory) and EPROM (erasable programmable read-only memory). 
+ 
+Speed
+ROM is generally slower than RAM but faster than a hard drive
