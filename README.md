@@ -94,3 +94,17 @@ Because ASICs are custom-built for specific tasks, they can be faster and more e
 ### SoC (System on a Chip)
 A System on a Chip (SoC) is an integrated circuit that consolidates all the components of a computer or other electronic system into a single chip. This includes essential components like the central processing unit (CPU), graphics processing unit (GPU), memory, input/output (I/O) controllers, and other necessary functions for the system to operate.
 The advantage of SoCs is that they provide a high degree of functionality in a small footprint, which is crucial for mobile and embedded applications. They are also optimized for specific tasks, making them more efficient in terms of power and performance than systems using multiple discrete chips.
+## RAM (random access memory)
+RAM, or random access memory, is a computer's short-term memory that stores data the processor needs to run applications and open files. RAM is a critical component of a computer that works with the central processing unit (CPU) to quickly access information.
+
+Speed: RAM is faster than disks at reading and writing information. 
+ 
+Capacity: RAM is measured in bytes, and can range from 4 GB to 32 GB or more. 
+ 
+Performance: The more RAM a device has, the better its performance will be. This is because RAM allows the processor to quickly find the information it needs, without having to go into long-term storage. 
+ 
+Multitasking: RAM is important for multitasking, as it allows the computer to store and access large amounts of data quickly. 
+ 
+Startup times: RAM allows applications to start up faster, which reduces loading times. 
+ 
+Adding RAM: Computers typically come with at least two RAM modules, but more can be added if needed.
