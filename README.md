@@ -155,3 +155,56 @@ The types of ROM include PROM (programmable read-only memory) and EPROM (erasabl
  
 Speed:
 ROM is generally slower than RAM but faster than a hard drive
+## What is network and its types?
+A network is a collection of computers, servers, and other devices connected together to share resources, data, and services. These devices communicate with each other using various communication protocols, such as TCP/IP.
+
+There are several types of networks, classified based on their size, purpose, and geographical scope:
+
+### 1. Local Area Network (LAN):
+
+Scope: Typically within a single building or a small group of buildings (e.g., home, office, school).
+
+Purpose: Connects computers and devices in close proximity.
+
+Example: A Wi-Fi network at your home or a wired network in a small office.
+
+### 2. Wide Area Network (WAN):
+
+Scope: Covers a large geographical area (e.g., cities, countries, or even globally).
+
+Purpose: Connects multiple LANs together.
+
+Example: The internet is the largest WAN, or a corporate network that spans multiple offices across different cities.
+
+### 3. Metropolitan Area Network (MAN):
+
+Scope: Covers a city or a large campus.
+
+Purpose: Larger than a LAN but smaller than a WAN, designed to connect networks in a metropolitan area.
+
+Example: A network that connects various government offices in a city.
+
+### 4. Personal Area Network (PAN):
+
+Scope: Very small, typically a few meters around a person.
+
+Purpose: Used for communication between personal devices.
+
+Example: Bluetooth devices like headphones, smartphones, or smartwatches.
+
+### 5. Campus Area Network (CAN):
+
+Scope: Connects LANs within a limited geographic area, such as a university campus or a business complex.
+
+Purpose: Larger than a LAN but localized to an institution.
+
+Example: A university network connecting different departments and buildings.
+
+### 6. Virtual Private Network (VPN):
+
+Scope: A secure, encrypted connection over a public network (such as the internet).
+
+Purpose: Allows secure remote access to a private network.
+
+Example: Employees accessing a company’s internal network while working remotely.
+
