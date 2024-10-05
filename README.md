@@ -27,3 +27,22 @@ A graphics processing unit, also known as a graphical processing unit or GPU, is
 By performing mathematical calculations rapidly, a GPU reduces the amount of time needed for a computer to run multiple programs, making it an essential enabler of emerging and future technologies like machine learning (ML), artificial intelligence (AI) and blockchain
 ### -TPU (Tensor Processing Unit)
 A Tensor Processing Unit (TPU) is a specialized hardware accelerator designed by Google specifically for accelerating machine learning tasks. It excels in operations common to neural networks, such as matrix multiplications, offering enhanced performance and efficiency compared to traditional CPUs and GPUs
+## COMPUTER ARCHITECTURE
+Computer architecture refers to the end-to-end structure of a computer system that determines how its components interact with each other in helping to execute the machine’s purpose (i.e., processing data), often avoiding any reference to the actual technical implementation.
+
+## Types of computer architecture
+### CISC (Complex Instruction Set Computer)
+##### Definition
+CISC stands for Complex Instruction Set Computer, and it's a processor design that uses complex instructions to perform multiple operations in a single instruction. 
+ 
+#### Features
+CISC architectures are designed to: 
+ 
+Avoid expensive memory 
+ 
+Move complex instructions to the hardware level 
+ 
+Perform algorithms in fewer instructions than RISC architectures 
+ 
+#### Use cases
+CISC is the mainstream approach for personal computers, servers, and data centers.
