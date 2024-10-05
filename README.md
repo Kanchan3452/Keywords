@@ -47,7 +47,7 @@ Perform algorithms in fewer instructions than RISC architectures
  
 #### Use cases
 CISC is the mainstream approach for personal computers, servers, and data centers.
-#### RISC
+### RISC
 #### What it is
 RISC is a microprocessor architecture that uses a small set of optimized instructions to simplify the work of the central processing unit (CPU). 
  
@@ -78,3 +78,19 @@ RISC-V's simplicity and efficiency make it easier to design chips and optimize h
  
 #### Adoption
 RISC-V has become very popular in recent years, with more than 10 billion chips containing RISC-V cores shipping by the end of 2022.
+### AISC (Application-Specific Integrated Circuit)
+An ASIC (Application-Specific Integrated Circuit) is a type of integrated circuit (IC) that is custom-designed for a specific application or task, rather than being a general-purpose chip like a microprocessor or memory chip. ASICs are tailored to perform specific operations efficiently and are often used in devices where performance, power consumption, and space are critical factors.
+
+#### Examples of devices that use ASICs include:
+
+###### Smartphones: ASICs are used in mobile processors to optimize performance and battery life.
+
+###### Cryptocurrency Mining: Specialized ASICs are used to mine cryptocurrencies like Bitcoin, as they are more efficient than general-purpose CPUs or GPUs.
+
+###### Networking Equipment: ASICs are used in routers and switches to manage data flow efficiently.
+
+
+Because ASICs are custom-built for specific tasks, they can be faster and more energy-efficient than general-purpose chips, but they are also more expensive and time-consuming to develop.
+### SoC (System on a Chip)
+A System on a Chip (SoC) is an integrated circuit that consolidates all the components of a computer or other electronic system into a single chip. This includes essential components like the central processing unit (CPU), graphics processing unit (GPU), memory, input/output (I/O) controllers, and other necessary functions for the system to operate.
+The advantage of SoCs is that they provide a high degree of functionality in a small footprint, which is crucial for mobile and embedded applications. They are also optimized for specific tasks, making them more efficient in terms of power and performance than systems using multiple discrete chips.
