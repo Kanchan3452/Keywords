@@ -235,3 +235,9 @@ Developed by Apple, iOS is the operating system for iPhones, iPads, and iPods. I
 Based on the Linux kernel, Chrome OS is designed by Google for Chromebooks. It is lightweight and cloud-focused, running web-based applications.
 #### 7. Unix:
 A powerful, multiuser OS used mainly in servers and workstations. It’s the foundation for many other OS, including Linux and macOS.
+
+## KERNAL
+A kernel is the core component of an operating system. It's responsible for managing the computer's hardware resources, handling communication between hardware and software, and providing a platform for applications to run.
+
+## BARE METAL
+Bare metal refers to a computer's physical hardware without any software, such as an operating system or virtualization layer, installed on it. It represents a system in its raw form, used for direct, high-performance interactions with hardware.
