@@ -211,5 +211,27 @@ Example: Employees accessing a company’s internal network while working remote
 ## OPERATING SYSTEM
 An operating system (OS) is a type of software that manages a computer's hardware and software resources, and allows multiple applications to run efficiently The main task an operating system carries out is the allocation of resources and services, such as the allocation of memory, devices, processors, and information.
 ### Functions of operating systems
-##### Security
+##### -Security
 To safeguard user data, the operating system employs password protection and other related measures. It also protects programs and user data from illegal access.
+#### -Control over System Performance
+The operating system monitors the overall health of the system in order to optimise performance. To get a thorough picture of the system’s health, keep track of the time between system responses and service requests. This can aid performance by providing critical information for troubleshooting issues.
+#### -Job Accounting
+The operating system maintains track of how much time and resources are consumed by different tasks and users, and this data can be used to measure resource utilisation for a specific user or group of users.
+#### -Error Detecting Aids
+The OS constantly monitors the system in order to discover faults and prevent a computer system from failing.
+
+### Major operating system 
+#### 1. Windows:
+Developed by Microsoft, it is one of the most widely used OS for personal computers (PCs). It offers a graphical user interface (GUI) and is popular for its broad software compatibility.
+#### 2. macOS:
+Developed by Apple, it runs on Apple’s Mac computers. It is known for its sleek design, security features, and seamless integration with other Apple products.
+#### 3. Linux: 
+An open-source OS used on servers, desktops, and mobile devices. Popular distributions (or "distros") include Ubuntu, Fedora, and CentOS. Linux is known for its flexibility and security.
+#### 4. Android:
+Primarily for mobile devices, Android is an OS developed by Google, based on the Linux kernel. It is the most popular OS for smartphones globally.
+#### 5. iOS:
+Developed by Apple, iOS is the operating system for iPhones, iPads, and iPods. It is known for its stability and integration with the Apple ecosystem.
+#### 6. Chrome OS:
+Based on the Linux kernel, Chrome OS is designed by Google for Chromebooks. It is lightweight and cloud-focused, running web-based applications.
+#### 7. Unix:
+A powerful, multiuser OS used mainly in servers and workstations. It’s the foundation for many other OS, including Linux and macOS.
