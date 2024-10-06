@@ -208,3 +208,8 @@ Purpose: Allows secure remote access to a private network.
 
 Example: Employees accessing a company’s internal network while working remotely.
 
+## OPERATING SYSTEM
+An operating system (OS) is a type of software that manages a computer's hardware and software resources, and allows multiple applications to run efficiently The main task an operating system carries out is the allocation of resources and services, such as the allocation of memory, devices, processors, and information.
+### Functions of operating systems
+##### Security
+To safeguard user data, the operating system employs password protection and other related measures. It also protects programs and user data from illegal access.
